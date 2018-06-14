@@ -1,0 +1,1570 @@
+[
+    {
+        "id": "5b22b11a81623c16bc056697",
+        "CodigoProceso": "06-1-1821",
+        "Cuantia": 308000000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05669a",
+        "CodigoProceso": "06-1-1824",
+        "Cuantia": 460591190,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05669b",
+        "CodigoProceso": "06-1-1825",
+        "Cuantia": 1417000000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05669c",
+        "CodigoProceso": "06-1-1826",
+        "Cuantia": 1250000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05669d",
+        "CodigoProceso": "06-1-1827",
+        "Cuantia": 2203000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05669e",
+        "CodigoProceso": "06-1-1828",
+        "Cuantia": 591855392,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05669f",
+        "CodigoProceso": "06-1-1833",
+        "Cuantia": 400000000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056698",
+        "CodigoProceso": "06-1-1822",
+        "Cuantia": 1350000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056699",
+        "CodigoProceso": "06-1-1823",
+        "Cuantia": 353473890,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566a0",
+        "CodigoProceso": "06-1-1834",
+        "Cuantia": 452000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566a4",
+        "CodigoProceso": "06-1-1838",
+        "Cuantia": 716484312,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566a3",
+        "CodigoProceso": "06-1-1837",
+        "Cuantia": 476413246,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566a5",
+        "CodigoProceso": "06-1-1839",
+        "Cuantia": 1637800811,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566a6",
+        "CodigoProceso": "06-1-1840",
+        "Cuantia": 309766741,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566a7",
+        "CodigoProceso": "06-1-1841",
+        "Cuantia": 999999008,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566a8",
+        "CodigoProceso": "06-1-1842",
+        "Cuantia": 500000000,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566a9",
+        "CodigoProceso": "06-1-1843",
+        "Cuantia": 600000000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566a1",
+        "CodigoProceso": "06-1-1835",
+        "Cuantia": 334000000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566a2",
+        "CodigoProceso": "06-1-1836",
+        "Cuantia": 670000000,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ab",
+        "CodigoProceso": "06-1-1845",
+        "Cuantia": 699994152,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566aa",
+        "CodigoProceso": "06-1-1844",
+        "Cuantia": 240000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ac",
+        "CodigoProceso": "06-1-1846",
+        "Cuantia": 661881152,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ad",
+        "CodigoProceso": "06-1-1847",
+        "Cuantia": 1000000000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ae",
+        "CodigoProceso": "06-1-1848",
+        "Cuantia": 800000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566af",
+        "CodigoProceso": "06-1-1849",
+        "Cuantia": 1700000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566b0",
+        "CodigoProceso": "06-1-1850",
+        "Cuantia": 11918996158,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566b2",
+        "CodigoProceso": "06-1-1852",
+        "Cuantia": 70000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566b4",
+        "CodigoProceso": "06-1-1854",
+        "Cuantia": 118210527,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566b5",
+        "CodigoProceso": "06-1-1856",
+        "Cuantia": 332000000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566b6",
+        "CodigoProceso": "06-1-1857",
+        "Cuantia": 324727051,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566b7",
+        "CodigoProceso": "06-1-1858",
+        "Cuantia": 856853457,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566b8",
+        "CodigoProceso": "06-1-1859",
+        "Cuantia": 269700200,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566b9",
+        "CodigoProceso": "06-1-1860",
+        "Cuantia": 651070577,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566b3",
+        "CodigoProceso": "06-1-1853",
+        "Cuantia": 60000000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566bc",
+        "CodigoProceso": "06-1-1863",
+        "Cuantia": 130000000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566bd",
+        "CodigoProceso": "06-1-1864",
+        "Cuantia": 109426920,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566b1",
+        "CodigoProceso": "06-1-1851",
+        "Cuantia": 57478000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566be",
+        "CodigoProceso": "06-1-1865",
+        "Cuantia": 99478800,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566bf",
+        "CodigoProceso": "06-1-1866",
+        "Cuantia": 125739953,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566c0",
+        "CodigoProceso": "06-1-1867",
+        "Cuantia": 119166675,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566c1",
+        "CodigoProceso": "06-1-1868",
+        "Cuantia": 157664700,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566bb",
+        "CodigoProceso": "06-1-1862",
+        "Cuantia": 324727051,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ba",
+        "CodigoProceso": "06-1-1861",
+        "Cuantia": 450000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566c2",
+        "CodigoProceso": "06-1-1869",
+        "Cuantia": 136471495,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566c5",
+        "CodigoProceso": "06-1-1873",
+        "Cuantia": 56483836,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566c6",
+        "CodigoProceso": "06-1-1874",
+        "Cuantia": 157133874,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566c7",
+        "CodigoProceso": "06-1-1875",
+        "Cuantia": 112242239,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566c8",
+        "CodigoProceso": "06-1-1876",
+        "Cuantia": 39904000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ca",
+        "CodigoProceso": "06-1-1878",
+        "Cuantia": 81000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566c9",
+        "CodigoProceso": "06-1-1877",
+        "Cuantia": 23638643,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566c3",
+        "CodigoProceso": "06-1-1870",
+        "Cuantia": 54903621,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566cd",
+        "CodigoProceso": "06-1-1881",
+        "Cuantia": 154476100,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566cc",
+        "CodigoProceso": "06-1-1880",
+        "Cuantia": 570240426,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ce",
+        "CodigoProceso": "06-1-1882",
+        "Cuantia": 99975876,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566d0",
+        "CodigoProceso": "06-1-1884",
+        "Cuantia": 39967940,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566cf",
+        "CodigoProceso": "06-1-1883",
+        "Cuantia": 38620576,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566d1",
+        "CodigoProceso": "06-1-1885",
+        "Cuantia": 100000000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566d2",
+        "CodigoProceso": "06-1-1886",
+        "Cuantia": 148500000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566d3",
+        "CodigoProceso": "06-1-1887",
+        "Cuantia": 99750004,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566d5",
+        "CodigoProceso": "06-1-1889",
+        "Cuantia": 100000000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566d6",
+        "CodigoProceso": "06-1-1890",
+        "Cuantia": 20000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566d4",
+        "CodigoProceso": "06-1-1888",
+        "Cuantia": 122967304,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566c4",
+        "CodigoProceso": "06-1-1871",
+        "Cuantia": 52630617,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566cb",
+        "CodigoProceso": "06-1-1879",
+        "Cuantia": 0,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566d7",
+        "CodigoProceso": "06-1-1892",
+        "Cuantia": 30000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566d8",
+        "CodigoProceso": "06-1-1893",
+        "Cuantia": 30000000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566d9",
+        "CodigoProceso": "06-1-1894",
+        "Cuantia": 90000000,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566da",
+        "CodigoProceso": "06-1-1895",
+        "Cuantia": 99336960,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566db",
+        "CodigoProceso": "06-1-1896",
+        "Cuantia": 120000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566dc",
+        "CodigoProceso": "06-1-1897",
+        "Cuantia": 60000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566dd",
+        "CodigoProceso": "06-1-1898",
+        "Cuantia": 149980000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566df",
+        "CodigoProceso": "06-1-1900",
+        "Cuantia": 50000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566de",
+        "CodigoProceso": "06-1-1899",
+        "Cuantia": 30000000,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566e0",
+        "CodigoProceso": "06-1-1901",
+        "Cuantia": 149640000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566e1",
+        "CodigoProceso": "06-1-1902",
+        "Cuantia": 35661500,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566e4",
+        "CodigoProceso": "06-1-1905",
+        "Cuantia": 67709200,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566e3",
+        "CodigoProceso": "06-1-1904",
+        "Cuantia": 64400000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566e6",
+        "CodigoProceso": "06-1-1908",
+        "Cuantia": 195000000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566e5",
+        "CodigoProceso": "06-1-1907",
+        "Cuantia": 570975000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566e7",
+        "CodigoProceso": "06-1-1909",
+        "Cuantia": 362000000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566e8",
+        "CodigoProceso": "06-1-1910",
+        "Cuantia": 300000000,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566e9",
+        "CodigoProceso": "06-1-1911",
+        "Cuantia": 60000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566eb",
+        "CodigoProceso": "06-1-1913",
+        "Cuantia": 380000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ea",
+        "CodigoProceso": "06-1-1912",
+        "Cuantia": 9240000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ec",
+        "CodigoProceso": "06-1-1916",
+        "Cuantia": 95000000,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ed",
+        "CodigoProceso": "06-1-1917",
+        "Cuantia": 2350000000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ee",
+        "CodigoProceso": "06-1-1918",
+        "Cuantia": 920000000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ef",
+        "CodigoProceso": "06-1-1919",
+        "Cuantia": 400000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566f0",
+        "CodigoProceso": "06-1-1920",
+        "Cuantia": 1400000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566f1",
+        "CodigoProceso": "06-1-1921",
+        "Cuantia": 350000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566f3",
+        "CodigoProceso": "06-1-1923",
+        "Cuantia": 530000000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566f4",
+        "CodigoProceso": "06-1-1924",
+        "Cuantia": 377894011,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566f6",
+        "CodigoProceso": "06-1-1926",
+        "Cuantia": 60000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566f5",
+        "CodigoProceso": "06-1-1925",
+        "Cuantia": 547942655,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566f7",
+        "CodigoProceso": "06-1-1927",
+        "Cuantia": 1800000000,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566f8",
+        "CodigoProceso": "06-1-1930",
+        "Cuantia": 1740583987,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566f2",
+        "CodigoProceso": "06-1-1922",
+        "Cuantia": 0,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566fb",
+        "CodigoProceso": "06-1-1933",
+        "Cuantia": 429832844,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566fa",
+        "CodigoProceso": "06-1-1932",
+        "Cuantia": 402111133,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566fc",
+        "CodigoProceso": "06-1-1934",
+        "Cuantia": 117565000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566fd",
+        "CodigoProceso": "06-1-1935",
+        "Cuantia": 1776000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566fe",
+        "CodigoProceso": "06-1-1936",
+        "Cuantia": 776000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056700",
+        "CodigoProceso": "06-1-1938",
+        "Cuantia": 104000000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566ff",
+        "CodigoProceso": "06-1-1937",
+        "Cuantia": 1900000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566e2",
+        "CodigoProceso": "06-1-1903",
+        "Cuantia": 149947000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056703",
+        "CodigoProceso": "06-1-1941",
+        "Cuantia": 39904000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056702",
+        "CodigoProceso": "06-1-1940",
+        "Cuantia": 15764700,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056704",
+        "CodigoProceso": "06-1-1942",
+        "Cuantia": 395096564,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056701",
+        "CodigoProceso": "06-1-1939",
+        "Cuantia": 30000000,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc0566f9",
+        "CodigoProceso": "06-1-1931",
+        "Cuantia": 859811866,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Contratación Directa",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056705",
+        "CodigoProceso": "06-1-1943",
+        "Cuantia": 760680000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056706",
+        "CodigoProceso": "06-1-1944",
+        "Cuantia": 1397212960,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056707",
+        "CodigoProceso": "06-1-1945",
+        "Cuantia": 486549228,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056708",
+        "CodigoProceso": "06-1-1946",
+        "Cuantia": 1354575205,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056709",
+        "CodigoProceso": "06-1-1947",
+        "Cuantia": 1658932328,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05670d",
+        "CodigoProceso": "06-1-1951",
+        "Cuantia": 300000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05670e",
+        "CodigoProceso": "06-1-1952",
+        "Cuantia": 200000000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05670b",
+        "CodigoProceso": "06-1-1949",
+        "Cuantia": 746986730,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05670f",
+        "CodigoProceso": "06-1-1953",
+        "Cuantia": 400000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056710",
+        "CodigoProceso": "06-1-1954",
+        "Cuantia": 610000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056711",
+        "CodigoProceso": "06-1-1955",
+        "Cuantia": 96500000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056712",
+        "CodigoProceso": "06-1-1956",
+        "Cuantia": 7135059399,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056714",
+        "CodigoProceso": "06-1-1958",
+        "Cuantia": 470000000,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056713",
+        "CodigoProceso": "06-1-1957",
+        "Cuantia": 410086449,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056715",
+        "CodigoProceso": "06-1-1959",
+        "Cuantia": 300000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056716",
+        "CodigoProceso": "06-1-1960",
+        "Cuantia": 132475000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056717",
+        "CodigoProceso": "06-1-1961",
+        "Cuantia": 801800439,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056718",
+        "CodigoProceso": "06-1-1962",
+        "Cuantia": 470000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056719",
+        "CodigoProceso": "06-1-1963",
+        "Cuantia": 72664471174,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05670c",
+        "CodigoProceso": "06-1-1950",
+        "Cuantia": 95000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05671c",
+        "CodigoProceso": "06-1-1966",
+        "Cuantia": 69948000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05671d",
+        "CodigoProceso": "06-1-1967",
+        "Cuantia": 450000000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05671e",
+        "CodigoProceso": "06-1-1968",
+        "Cuantia": 423529412,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05671f",
+        "CodigoProceso": "06-1-1970",
+        "Cuantia": 14063279114,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056720",
+        "CodigoProceso": "06-1-1972",
+        "Cuantia": 992980000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc05671a",
+        "CodigoProceso": "06-1-1964",
+        "Cuantia": 79996268,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056721",
+        "CodigoProceso": "06-1-1973",
+        "Cuantia": 117595170,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc05670a",
+        "CodigoProceso": "06-1-1948",
+        "Cuantia": 300000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05671b",
+        "CodigoProceso": "06-1-1965",
+        "Cuantia": 64274981,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056722",
+        "CodigoProceso": "06-1-1974",
+        "Cuantia": 300000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056726",
+        "CodigoProceso": "06-1-1978",
+        "Cuantia": 2250000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056725",
+        "CodigoProceso": "06-1-1977",
+        "Cuantia": 79449034915,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056727",
+        "CodigoProceso": "06-1-1979",
+        "Cuantia": 3970000000,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056728",
+        "CodigoProceso": "06-1-1980",
+        "Cuantia": 30900394712,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056729",
+        "CodigoProceso": "06-1-1981",
+        "Cuantia": 1100000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05672a",
+        "CodigoProceso": "06-1-1982",
+        "Cuantia": 380000000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05672b",
+        "CodigoProceso": "06-1-1983",
+        "Cuantia": 11600000000,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056723",
+        "CodigoProceso": "06-1-1975",
+        "Cuantia": 300000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056724",
+        "CodigoProceso": "06-1-1976",
+        "Cuantia": 800000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc05672f",
+        "CodigoProceso": "06-1-1988",
+        "Cuantia": 500000000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc05672e",
+        "CodigoProceso": "06-1-1987",
+        "Cuantia": 16900000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056730",
+        "CodigoProceso": "06-1-1989",
+        "Cuantia": 1650000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056731",
+        "CodigoProceso": "06-1-1990",
+        "Cuantia": 250000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056732",
+        "CodigoProceso": "06-1-1991",
+        "Cuantia": 900000000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056733",
+        "CodigoProceso": "06-1-1992",
+        "Cuantia": 480000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056734",
+        "CodigoProceso": "06-1-1993",
+        "Cuantia": 800000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056736",
+        "CodigoProceso": "06-1-1995",
+        "Cuantia": 1794000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056737",
+        "CodigoProceso": "06-1-1996",
+        "Cuantia": 500000000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056738",
+        "CodigoProceso": "06-1-1997",
+        "Cuantia": 1383403543,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056739",
+        "CodigoProceso": "06-1-1998",
+        "Cuantia": 1039000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc05673a",
+        "CodigoProceso": "06-1-1999",
+        "Cuantia": 504287077563,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05672c",
+        "CodigoProceso": "06-1-1984",
+        "Cuantia": 6250000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05673b",
+        "CodigoProceso": "06-1-2000",
+        "Cuantia": 2216160000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05672d",
+        "CodigoProceso": "06-1-1986",
+        "Cuantia": 650000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056735",
+        "CodigoProceso": "06-1-1994",
+        "Cuantia": 650000000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc05673f",
+        "CodigoProceso": "06-1-2004",
+        "Cuantia": 866270000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056740",
+        "CodigoProceso": "06-1-2005",
+        "Cuantia": 2000000000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056741",
+        "CodigoProceso": "06-1-2006",
+        "Cuantia": 900000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05673d",
+        "CodigoProceso": "06-1-2002",
+        "Cuantia": 1300000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056743",
+        "CodigoProceso": "06-1-2008",
+        "Cuantia": 900000000,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056742",
+        "CodigoProceso": "06-1-2007",
+        "Cuantia": 341525808,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056744",
+        "CodigoProceso": "06-1-2009",
+        "Cuantia": 85000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056746",
+        "CodigoProceso": "06-1-2011",
+        "Cuantia": 733968585,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056745",
+        "CodigoProceso": "06-1-2010",
+        "Cuantia": 190000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056747",
+        "CodigoProceso": "06-1-2012",
+        "Cuantia": 672828040,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056749",
+        "CodigoProceso": "06-1-2014",
+        "Cuantia": 354798804,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Borrador"
+    },
+    {
+        "id": "5b22b11a81623c16bc056748",
+        "CodigoProceso": "06-1-2013",
+        "Cuantia": 4000000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05674a",
+        "CodigoProceso": "06-1-2015",
+        "Cuantia": 661900000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05674b",
+        "CodigoProceso": "06-1-2016",
+        "Cuantia": 942500000,
+        "CodigoEntidad": "205004011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05674c",
+        "CodigoProceso": "06-1-2017",
+        "Cuantia": 904000000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05674e",
+        "CodigoProceso": "06-1-2019",
+        "Cuantia": 997150000,
+        "CodigoEntidad": "205030011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05674f",
+        "CodigoProceso": "06-1-2020",
+        "Cuantia": 764300000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05674d",
+        "CodigoProceso": "06-1-2018",
+        "Cuantia": 773950000,
+        "CodigoEntidad": "205887295",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05673e",
+        "CodigoProceso": "06-1-2003",
+        "Cuantia": 347000000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056750",
+        "CodigoProceso": "06-1-2021",
+        "Cuantia": 1695800000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05673c",
+        "CodigoProceso": "06-1-2001",
+        "Cuantia": 500000000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Liquidado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056751",
+        "CodigoProceso": "06-1-2022",
+        "Cuantia": 732460000,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056752",
+        "CodigoProceso": "06-1-2023",
+        "Cuantia": 734420000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056753",
+        "CodigoProceso": "06-1-2024",
+        "Cuantia": 835400000,
+        "CodigoEntidad": "205034011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056754",
+        "CodigoProceso": "06-1-2025",
+        "Cuantia": 1800000000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056755",
+        "CodigoProceso": "06-1-2026",
+        "Cuantia": 900000000,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056757",
+        "CodigoProceso": "06-1-2028",
+        "Cuantia": 1742200000,
+        "CodigoEntidad": "205021011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056756",
+        "CodigoProceso": "06-1-2027",
+        "Cuantia": 610100000,
+        "CodigoEntidad": "205756017",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056758",
+        "CodigoProceso": "06-1-2030",
+        "Cuantia": 619987554,
+        "CodigoEntidad": "205031011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc056759",
+        "CodigoProceso": "06-1-2031",
+        "Cuantia": 355086024,
+        "CodigoEntidad": "205036011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    },
+    {
+        "id": "5b22b11a81623c16bc05675a",
+        "CodigoProceso": "06-1-2032",
+        "Cuantia": 39620882,
+        "CodigoEntidad": "205002011",
+        "tipoProceso": "Subasta",
+        "estadoProceso": "Firmado"
+    }
+]
